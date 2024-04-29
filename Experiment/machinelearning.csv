@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What was the main goal of machine learning in the 1990s?,a: Achieving artificial intelligence | b: Tackling solvable problems of a practical nature | d: Becoming a subfield of data mining | c: Focusing on symbolic approaches inherited from AI,b
+Which method can be used for optimal data compression?,a: Linear regression | d: Decision trees | b: Logistic regression | c: Arithmetic coding,c
+What is the main focus of data mining?,b: Discovery of unknown properties in the data | a: Prediction based on known properties | d: Evaluation of unsupervised learning methods | c: Preprocessing step to improve learner accuracy,b
+Which algorithm can be utilized for data compression by grouping similar data points into clusters?,a: Linear regression | b: K-means clustering | d: Random Forest | c: Support Vector Machines,b
+What do loss functions express in machine learning?,d: The computational complexity of the model | b: The number of features in the dataset | c: The type of data preprocessing used | a: The discrepancy between predictions and actual instances,a
